@@ -1,0 +1,85 @@
+# README: BikeWale Website Test Cases
+
+## Project Overview
+This project contains a set of **test cases** to verify the functionality and navigation of the **BikeWale** website ([https://www.bikewale.com/](https://www.bikewale.com/)). The test cases ensure that key features such as city selection, bike brand filtering, top comparisons, reviews, new launches, and bike selection are working as expected.
+
+## Test Cases
+
+### **Test Case ID: TC_001** - Verify Page Title and URL
+**Objective:** Ensure that the correct website page loads with the expected URL and title.
+- **Test Steps:**
+  1. Open the browser and navigate to [BikeWale](https://www.bikewale.com/).
+  2. Verify the **URL** and **Title** of the page.
+  3. Print the URL and Title.
+- **Expected Result:** The correct URL and page title should be displayed.
+
+### **Test Case ID: TC_002** - Select City (Jalandhar)
+**Objective:** Validate the city selection functionality.
+- **Test Steps:**
+  1. Click on **"Select City"**.
+  2. Search and select **Jalandhar** from the list.
+- **Expected Result:** The selected city should be **Jalandhar**, and the website should reflect this change.
+
+### **Test Case ID: TC_003** - Select Bike Brand (TVS)
+**Objective:** Verify the bike brand filtering feature.
+- **Test Steps:**
+  1. Locate the **brand selection** option.
+  2. Select **TVS** from the list.
+- **Expected Result:** TVS should be selected, and the page should display TVS models.
+
+### **Test Case ID: TC_004** - Click on Top Comparison
+**Objective:** Ensure that the "Top Comparison" page is accessible.
+- **Test Steps:**
+  1. Navigate to the **"Top Comparison"** section.
+  2. Click on it.
+- **Expected Result:** The **Top Comparison** page should open.
+
+### **Test Case ID: TC_005** - Click on Reviews
+**Objective:** Verify the accessibility of the Reviews page.
+- **Test Steps:**
+  1. Navigate to the **"Reviews"** section.
+  2. Click on it.
+- **Expected Result:** The **Reviews** page should open.
+
+### **Test Case ID: TC_006** - Navigate to Home and Select New Launches
+**Objective:** Validate the New Launches page functionality.
+- **Test Steps:**
+  1. Click on **Home** to return to the homepage.
+  2. Click on **"New Launches"**.
+- **Expected Result:** The **New Launches** page should open, displaying recently launched bikes.
+
+### **Test Case ID: TC_007** - Select Body Style (Cruiser)
+**Objective:** Ensure that the "Body Style" filter works correctly.
+- **Test Steps:**
+  1. Click on **Body Style** filter.
+  2. Select **Cruiser** from the available options.
+- **Expected Result:** The page should display a list of cruiser bikes.
+
+### **Test Case ID: TC_008** - Select Any Bike and Verify Details
+**Objective:** Validate bike selection and details visibility.
+- **Test Steps:**
+  1. Choose any bike from the displayed list.
+  2. Verify its details like **price, specifications, and features**.
+- **Expected Result:** The selected bike’s details should be displayed correctly.
+
+## Prerequisites
+- **Browser:** Google Chrome, Firefox, or Edge.
+- **Selenium WebDriver** (for automation testing if applicable).
+- **Stable Internet Connection.**
+
+## Execution Steps
+1. Open the test cases document.
+2. Follow the test steps and mark the **Actual Result**.
+3. Capture **screenshots** for reference.
+4. Compare results with the **Expected Result** and mark **Pass/Fail**.
+
+## Notes
+- Ensure smooth navigation without **broken links** or **page loading issues**.
+- Validate **UI responsiveness** across different browsers.
+- Attach **screenshots** after each step to support test results.
+
+---
+**Author:** Hrithik Singh Kushwaha  
+**Date:** February 2025  
+**Version:** 1.0
+
