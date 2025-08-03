@@ -8,7 +8,8 @@ Skill_Stone_Automated_Testing is an automation testing project aimed at validati
 - Functional, regression, and boundary test case execution  
 - Test case design covering **positive, negative, and edge scenarios**  
 - Defect identification and reporting for quality assurance  
-- Integration with **Maven, TestNG, and JUnit** for test execution and reporting  
+- Integration with **Maven, TestNG, and JUnit** for test execution and reporting
+## Bike Wale TestCase -https://drive.google.com/drive/folders/1IwRt1s9NCUlXAv5oDrPj2L0wqTBih3as?usp=sharing
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** Java  
