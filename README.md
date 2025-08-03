@@ -12,6 +12,8 @@ Skill_Stone_Automated_Testing is an automation testing project aimed at validati
 ## Bike Wale TestCase -https://drive.google.com/drive/folders/1IwRt1s9NCUlXAv5oDrPj2L0wqTBih3as?usp=sharing
 ## MamaEarth TestCase -https://drive.google.com/drive/folders/1eqbu-P1o0P_wnYB8HjiMd6rekF8eG7ne?usp=sharing
 
+## Other file of testCase and Bug - https://drive.google.com/drive/folders/13V5nk9QCgOfKToRVne1MQpMvxh4a29xK?usp=sharing
+
 ## 🛠️ Technologies Used  
 - **Programming Language:** Java  
 - **Testing Tools:** Selenium WebDriver, TestNG, JUnit  
