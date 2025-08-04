@@ -9,6 +9,7 @@ Skill_Stone_Automated_Testing is an automation testing project aimed at validati
 - Test case design covering **positive, negative, and edge scenarios**  
 - Defect identification and reporting for quality assurance  
 - Integration with **Maven, TestNG, and JUnit** for test execution and reporting
+## Video for Postman API -https://www.youtube.com/watch?v=7oEJcZOmBd8
 ## Bike Wale TestCase -https://drive.google.com/drive/folders/1IwRt1s9NCUlXAv5oDrPj2L0wqTBih3as?usp=sharing
 ## MamaEarth TestCase -https://drive.google.com/drive/folders/1eqbu-P1o0P_wnYB8HjiMd6rekF8eG7ne?usp=sharing
 
