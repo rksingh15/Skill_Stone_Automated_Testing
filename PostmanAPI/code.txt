@@ -1,0 +1,50 @@
+npx json-server " file addess"
+
+website reqres.in
+
+Auth --- https://base64decode.com/
+
+
+Enviroment -  This helps in making API requests more flexible, reusable, and easy to manage 
+across different setups like Development, Testing, and Production.
+
+
+
+patch - i have add *id* too  [jo send button ke bagal me hai]  like {{baseUri}}{{endPoint}}7 <---  page number hai
+  and i can change any data
+
+
+  Script-- 
+
+  var x =pm.environment.get("BaseURI");
+console.log("The baseUri is : "+x);
+
+var z =pm.environment.get("EndPoint");
+console.log("The EndPoint is : "+z);
+
+---------------------------------------------------------------------------------------------------
+Data driven Testing - we adding data  by help of CSV file , test data o api
+
+in body  after make csv file
+
+
+
+1-ye code raw me likha jayega----
+                              |
+                            <---
+{
+
+"username":{{username}},
+"password":{{password}}
+
+
+}
+
+2-phele se Script lage hone chaiye
+
+collection -> run collection -> {jo file ko run karanan  hai}   fill other detail
+
+  var x =pm.environment.get("BaseURI");  ---           print all think  This is Script
+console.log("The baseUri is : "+x);      ---
+
+-------------------------------------------------------------------------------------------------------------

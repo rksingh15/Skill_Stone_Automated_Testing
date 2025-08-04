@@ -1,0 +1,65 @@
+{
+  "Book": [
+    {
+      "name": "The Apple",
+      "Author": "Paulo Man",
+      "Price": 350,
+      "Available": true,
+      "rack": null,
+      "location": [
+        "L2",
+        "15",
+        45
+      ],
+      "id": "b7ba"
+    },
+    {
+      "name": "The Mango",
+      "Author": "Paulo Zoom",
+      "Price": 357,
+      "Available": false,
+      "rack": null,
+      "id": "123"
+    },
+    {
+      "id": "124",
+      "name": "The King Man ",
+      "Author": "Zoom boom",
+      "Price": 556,
+      "Available": true,
+      "rack": "R1"
+    },
+    {
+      "id": "125",
+      "name": "The Lovely",
+      "Author": "Zoom",
+      "Price": 456,
+      "Available": true,
+      "rack": "R1"
+    },
+    {
+      "id": "124",
+      "name": "The King",
+      "Author": "Zoom boom",
+      "Price": 556,
+      "Available": true,
+      "rack": "R1"
+    }
+  ],
+  "info": [
+    {
+      "name": "Ritik",
+      "phone no": 1234567890,
+      "email": "ok gmailcndjcbijsd.com",
+      "address": "India",
+      "id": "4864"
+    },
+    {
+      "name": "Ritik",
+      "phone no": 1234567890,
+      "email": "gmailcndjcbijsd.com",
+      "address": "India",
+      "id": "4eee"
+    }
+  ]
+}

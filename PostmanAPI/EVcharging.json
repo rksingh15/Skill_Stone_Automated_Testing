@@ -1,0 +1,28 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "location": "Downtown Parking Lot",
+      "charger_type": "CCS2",
+      "available_ports": 4,
+      "last_updated": "2025-04-16T10:30:00Z",
+      "status": "Online"
+    },
+    {
+      "id": 2,
+      "location": "City Mall",
+      "charger_type": "Type 2",
+      "available_ports": 2,
+      "last_updated": "2025-04-15T18:45:00Z",
+      "status": "Offline"
+    },
+    {
+      "id": 3,
+      "location": "Highway Service Station",
+      "charger_type": "CHAdeMO",
+      "available_ports": 6,
+      "last_updated": "2025-04-16T08:15:00Z",
+      "status": "Online"
+    }
+  ]
+}

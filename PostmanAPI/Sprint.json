@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Dune",
+      "availableSeats": 120,
+      "price": 350
+    },
+    {
+      "id": "2",
+      "title": "Juno",
+      "availableSeats": 10,
+      "price": 50
+    },
+    {
+      "id": "3",
+      "title": "loss",
+      "availableSeats": 1222,
+      "price": 30
+    }
+  ]
+}

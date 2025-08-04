@@ -1,0 +1,112 @@
+{
+  "tools": [
+    {
+      "id": "1",
+      "name": "ChatGPT",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code Assistance"
+      ],
+      "launch_year": 2020,
+      "pricing_model": "Freemium"
+    },
+    {
+      "id": "2",
+      "name": "DALL-E",
+      "category": "Image Generation",
+      "features": [
+        "Image Creation",
+        "Art Generation",
+        "Customizable Outputs"
+      ],
+      "launch_year": 2021,
+      "pricing_model": "Paid"
+    },
+    {
+      "id": "3",
+      "name": "Melody Ai",
+      "category": "Image Generation",
+      "features": [
+        "Conv",
+        "Text",
+        "Code "
+      ],
+      "launch_year": 2022,
+      "pricing_model": "Paid"
+    },
+    {
+      "id": "4",
+      "name": "Google Ai",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code"
+      ],
+      "launch_year": 2021,
+      "pricing_model": "Free"
+    },
+    {
+      "id": "5",
+      "name": "Google Ai",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code"
+      ],
+      "launch_year": 2000,
+      "pricing_model": "Free"
+    },
+    {
+      "id": "6",
+      "name": "ChatGPT",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code Assistance"
+      ],
+      "launch_year": "Morning",
+      "pricing_model": "Freemium"
+    },
+    {
+      "id": "6",
+      "name": "ChatGPT2.0",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code Assistance"
+      ],
+      "launch_year": 2222,
+      "pricing_model": "Free"
+    },
+    {
+      "id": "9",
+      "name": "ChatGPT",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code Assistance"
+      ],
+      "launch_year": 2020,
+      "pricing_model": "Freemium"
+    },
+    {
+      "id": "9",
+      "name": "ChatGPT",
+      "category": "Text Generation",
+      "features": [
+        "Conversational AI",
+        "Text Completion",
+        "Code Assistance"
+      ],
+      "launch_year": 2020,
+      "pricing_model": "Freemium"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+endPoint,name,age,party,state,Ever_Won
+candidate,Mittal,45,APP,Punjab,true
+candidate,Rahul,50,INC,Delhi,false
+candidate,Kejriwal,55,AAP,Delhi,true
+candidate,Modi,60,BJP,Gujarat,true
+candidate,Gandhi,65,INC,Delhi,false
+candidate,Kumar,70,SWD,Bihar,false
+candidate,Yadav,75,BJP,Bihar,false
+candidate,Thakur,80,BJP,Bihar,false
+candidate,Singh,85,BJP,Bihar,false

@@ -1,0 +1,180 @@
+{
+  "candidate": [
+    {
+      "id": "1",
+      "name": "Ritik",
+      "age": 73,
+      "party": "BJP",
+      "state": "GUJARAT",
+      "Ever_Won": true,
+      "fare": 45
+    },
+    {
+      "id": "2",
+      "name": "Yogi",
+      "age": 45,
+      "party": "BJP",
+      "state": "Uttar Pradesh",
+      "Ever_Won": true
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "age": 35,
+      "party": "BJP",
+      "state": "Uttar Pradesh",
+      "Ever_Won": false
+    },
+    {
+      "id": "4",
+      "name": "Arvindra kejriwal",
+      "age": 55,
+      "party": "AAP",
+      "state": "DELHI",
+      "Ever_Won": false
+    },
+    {
+      "id": "5",
+      "name": "Singh",
+      "age": 66,
+      "party": "BSP",
+      "state": "Uttar Pradesh",
+      "Ever_Won": true
+    },
+    {
+      "id": "6",
+      "name": "Sinu",
+      "age": 28,
+      "party": "BJP",
+      "state": "Bihar",
+      "Ever_Won": true
+    },
+    {
+      "id": "3434",
+      "Meal": true,
+      "name": "Ritiksingh",
+      "Fare": 5550
+    },
+    {
+      "id": "8b8f",
+      "seat": [
+        11,
+        55,
+        120
+      ],
+      "Meal": true,
+      "name": "Ritiksingh",
+      "Fare": 5550
+    },
+    {
+      "id": "1422",
+      "empty": false,
+      "mapType": "java.util.HashMap"
+    },
+    {
+      "id": "450e",
+      "mapType": "java.util.HashMap",
+      "empty": false
+    },
+    {
+      "id": "195e",
+      "name": "Air",
+      "fare": 3542,
+      "meal": true
+    },
+    {
+      "id": "8",
+      "name": "Sh",
+      "age": 655,
+      "party": "BSP",
+      "state": "Umdk",
+      "Ever_Won": true
+    },
+    {
+      "id": "7966",
+      "Color": "Red",
+      "Age": 121,
+      "Name": "Ritik"
+    },
+    {
+      "id": "ff70"
+    },
+    {
+      "id": "7377",
+      "Address": "Ghazipur",
+      "name": "Ritik",
+      "Age": 123
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "88",
+      "name": "Y5412",
+      "age": 12,
+      "party": "BJP",
+      "state": "Uttar ",
+      "Ever_Won": true
+    },
+    {
+      "id": "4193",
+      "aa": "Ritkk",
+      "jj": 123
+    }
+  ],
+  "winner": [
+    {
+      "id": "1",
+      "name": "MODI",
+      "age": 45,
+      "party": "BJP",
+      "state": "Uttar Pradesh",
+      "Ever_Won": true
+    },
+    {
+      "id": "4",
+      "name": "Singh",
+      "age": 66,
+      "party": "BSP",
+      "state": "Uttar Pradesh",
+      "Ever_Won": true
+    }
+  ]
+}
